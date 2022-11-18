@@ -1,0 +1,17 @@
+.logo{
+    /* height: 1900px;
+    width: 1900px; */
+    /* width: 1800px; */
+    height: 995.24px;
+    width: 1829px;
+    background-image: url('Logo.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1829px 995.24px ;
+    /* border: 0px; */
+    /* background-size: fill; */
+}
+.b{
+    height: 996.24px;
+    width: 1829px;
+    background-color: black;
+}

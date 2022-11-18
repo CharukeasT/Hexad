@@ -1,0 +1,126 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .h11{
+    font-size: 50px;
+    padding-left: 200px;
+    text-align: left;
+  }
+  .h12{
+    font-size: 25px;
+    padding-left: 120px;
+    text-align: left;
+  }
+  .div2{
+    background-color: rgb(251, 156, 172);
+    height: 90px;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+  .img2{
+    width: 80px;
+    float: left;
+    padding-left: 300px;
+  }
+  .img3{
+    width: 80px;
+    float: left;
+    padding-left:150px;
+  }
+  .img4{
+    width: 80px;
+    float: left;
+    padding-left: 150px;
+  }
+  .h21{
+    font-size: 30px;
+    text-align: left;
+    padding-left: 300px;
+  }
+  .img5{
+    float: right;
+    background-image: url('Women.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110px;
+    width: 200px;
+    margin-top: -20px;
+  }
+  .img6{
+    float: right;
+    background-image: url('Men.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110px;
+    width: 200px;
+    margin-top: -20px;
+  }
+  .img7{
+    float: right;
+    background-image: url('Kids.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110px;
+    width: 200px;
+    margin-top: -20px;
+    margin-right: -500px;
+  }
+  .img8{
+    float: right;
+    background-image: url('Beauty.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 110px;
+    width: 200px;
+    margin-top: -20px;
+    margin-right: -500px;
+  }
+  .p1{
+    float: right;
+    padding-right: 500px;
+    font-size: 30px;
+    padding-top: 10px;
+  }
+  .p2{
+    float: right;
+    padding-right: 795px;
+    font-size: 30px;
+    padding-top: 10px;
+  }
+  .p3{
+    float: right;
+    padding-right: 430px;
+    font-size: 30px;
+    padding-top: 10px;
+  }
+  .p4{
+    float: right;
+    padding-right: 620px;
+    font-size: 30px;
+    padding-top: 10px;
+  }
+  .b1{
+    background-color: rgb(251, 156, 172);
+    height: 90px;
+    width: 490px;
+    font-size: 50px;
+    text-align: left;
+    border: none;
+    margin-top: -10px;
+  }
