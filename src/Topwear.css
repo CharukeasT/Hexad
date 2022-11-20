@@ -1,0 +1,99 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+}
+.div17{
+    background-color: rgba(251, 156, 172, 0);
+    height: 220px;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.div18{
+    height: 230px;
+    width: 195px;
+    border: none;
+    background-image: url('Topwear1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.div19{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div20{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div21{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div22{
+    height: 230px;
+    width: 195px;
+    border: none;
+    background-image: url('Topwear5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.div23{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div24{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div25{
+    height: 230px;
+    width: 195px;
+    background-image: url('Topwear8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.h22{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 170px;
+    font-size: 26px;
+}
+.h23{
+    text-align: left;
+    margin-top: -20px;
+    padding-left: 170px;
+    font-size: 22px;
+}

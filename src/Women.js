@@ -13,15 +13,15 @@ function Women() {
         </a>
         <h1 className="h11">WOMEN</h1>
         <br></br><br></br>
-        <div className="div1">Skirts</div>
+        <div className="div1"><a><Link to="/Skirts"><button className="b2">Skirts</button></Link></a></div>
         <br></br>
-        <div className="div1">Dresses & Jumpsuits</div>
+        <div className="div1"><a><Link to="/Skirts"><button className="b2">Dresses & Jumpsuits</button></Link></a></div>
         <br></br>
-        <div className="div1">Sweaters & Sweatshirts</div>
+        <div className="div1"><a><Link to="/Skirts"><button className="b2">Sweaters & Sweatshirts</button></Link></a></div>
         <br></br>
-        <div className="div1">Shrugs</div>
+        <div className="div1"><a><Link to="/Skirts"><button className="b2">Shrugs</button></Link></a></div>
         <br></br>
-        <div className="div1">Jeans & Jeggings</div>
+        <div className="div1"><a><Link to="/Skirts"><button className="b2">Jeans & Jeggings</button></Link></a></div>
         <br></br><br></br><br></br>
         <div> 
             <img className="img2" src="https://cdn-icons-png.flaticon.com/128/61/61972.png"></img>
@@ -31,10 +31,10 @@ function Women() {
             <img className="img3" src="https://cdn-icons-png.flaticon.com/128/60/60484.png"></img>
             <img className="img3" src="https://cdn-icons-png.flaticon.com/128/456/456212.png"></img>
             <br></br><br></br><br></br><br></br>
-            <h1 className="h21">Home &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Categories&ensp;&ensp;
-            &ensp;&ensp;&ensp;&ensp;Live Shop&ensp;&ensp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;
-            Cart&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wallet&ensp;&ensp;
-            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Profile</h1>
+            <h1 className="h13">Home &nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Categories&ensp;&ensp;
+            &ensp;&ensp;Live Shop&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+            &ensp;&ensp;Cart&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wallet&ensp;&ensp;
+            &ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;Profile</h1>
         </div>
       </div>       
     </>    

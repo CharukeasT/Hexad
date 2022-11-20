@@ -51,5 +51,18 @@
 .h21{
   font-size: 30px;
   text-align: left;
-  padding-left: 300px;
+  margin-left: -500px;
+  padding-left: 200px;
+}
+.b2{
+  background-color: rgb(251, 156, 172);
+  height: 70px;
+  width: 1000px;
+  font-size: 40px;
+  text-align: left;
+  border: none;
+}
+.h13{
+  text-align: left;
+  margin-left: 295px;
 }

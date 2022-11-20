@@ -22,16 +22,8 @@
   .h12{
     font-size: 25px;
     padding-left: 120px;
+    margin-left: 185px;
     text-align: left;
-  }
-  .div2{
-    background-color: rgb(251, 156, 172);
-    height: 90px;
-    font-size: 50px;
-    text-align: left;
-    padding-left: 100px;
-    padding-top: 20px;
-    margin-top: 20px;
   }
   .img2{
     width: 80px;
@@ -52,6 +44,7 @@
     font-size: 30px;
     text-align: left;
     padding-left: 300px;
+    margin-left: 130px;
   }
   .img5{
     float: right;
@@ -123,4 +116,13 @@
     text-align: left;
     border: none;
     margin-top: -10px;
+  }
+  .div2{
+    background-color: rgb(251, 156, 172);
+    height: 90px;
+    font-size: 50px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 20px;
+    margin-top: 20px;
   }

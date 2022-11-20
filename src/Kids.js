@@ -13,7 +13,7 @@ function Kids() {
         </a>
         <h1 className="h11">KIDS</h1>
         <br></br><br></br>
-        <div className="div1">Girls Clothing</div>
+        <div className="div1"><a><Link to="/GirlsClothing"><button className="b2">Girls Clothing</button></Link></a></div>
         <br></br>
         <div className="div1">Boys Clothing</div>
         <br></br>
@@ -31,10 +31,10 @@ function Kids() {
             <img className="img3" src="https://cdn-icons-png.flaticon.com/128/60/60484.png"></img>
             <img className="img3" src="https://cdn-icons-png.flaticon.com/128/456/456212.png"></img>
             <br></br><br></br><br></br><br></br>
-            <h1 className="h21">Home &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Categories&ensp;&ensp;
-            &ensp;&ensp;&ensp;&ensp;Live Shop&ensp;&ensp;&ensp;&nbsp;&nbsp;&ensp;&ensp;&ensp;&ensp;
-            Cart&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wallet&ensp;&ensp;
-            &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Profile</h1>
+            <h1 className="h13">Home &nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;Categories&ensp;&ensp;
+            &ensp;&ensp;Live Shop&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+            &ensp;&ensp;Cart&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wallet&ensp;&ensp;
+            &ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;Profile</h1>
         </div>
       </div>       
     </>    

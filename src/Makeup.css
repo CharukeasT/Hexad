@@ -1,0 +1,99 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+}
+.div7{
+    background-color: rgba(251, 156, 172, 0);
+    height: 220px;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.div9{
+    height: 230px;
+    width: 195px;
+    border: none;
+    background-image: url('Makeup1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.div10{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div11{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div12{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup4.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div13{
+    height: 230px;
+    width: 195px;
+    border: none;
+    background-image: url('Makeup5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 70px;
+    margin-top: -10px;
+}
+.div14{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div15{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup7.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.div16{
+    height: 230px;
+    width: 195px;
+    background-image: url('Makeup8.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 230px;
+    margin-top: -10px;
+}
+.h22{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 170px;
+    font-size: 26px;
+}
+.h23{
+    text-align: left;
+    margin-top: -20px;
+    padding-left: 170px;
+    font-size: 22px;
+}
