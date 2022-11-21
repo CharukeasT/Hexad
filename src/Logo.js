@@ -5,7 +5,7 @@ function Logo() {
   return (
     <>
     <div className='b'>
-        <a><Link to="/Categories">
+        <a><Link to="/Home">
         <button className="logo">
         </button>
         </Link>

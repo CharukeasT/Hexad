@@ -1,0 +1,270 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .text1{
+    background-color: rgba(248, 173, 185, 0.587);
+    width: 700px;
+    height: 80px;
+    border: none;
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-top: -10px;
+    float: left;
+    font-size: 35px;
+    padding-left: 150px;
+  }
+  .h14{
+    font-size: 50px;
+    margin-top: 0px;
+  }
+  .div45{
+    width: 120px;
+    height: 120px;
+    margin-left: 250px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+    .div46{
+    float: right;
+    margin-top: -120px;
+    margin-right: 1150px;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  } 
+   .div47{
+    float: right;
+    margin-top: -120px;
+    margin-right: 850px;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  } 
+   .div48{
+    width: 120px;
+    height: 120px;
+    margin-left: 250px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+   .div49{
+    float: right;
+    margin-top: -120px;
+    margin-right: 1150px;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+    .div50{
+      float: right;
+      margin-top: -120px;
+      margin-right: 850px;
+    width: 120px;
+    height: 120px;
+    background-color: rgb(251, 156, 172);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .div51{
+    float: right;
+    margin-top: -400px;
+    margin-right: 160px;
+  }
+  .img10{
+    width: 70px;
+    height: 70px;
+    background-image: url('Clothes.png');
+    background-size: 70px 70px;
+  }
+  .img11{
+    float: right;
+    width: 70px;
+    height: 70px;
+    background-image: url('Footwear.png');
+    background-size: 70px 70px;
+  }
+  .img12{
+    width: 70px;
+    height: 70px;
+    background-image: url('Jewellery.png');
+    background-size: 70px 70px;
+  }
+  .img13{
+    width: 70px;
+    height: 70px;
+    background-image: url('Watch.png');
+    background-size: 70px 70px;
+  }
+  .img14{
+    width: 70px;
+    height: 70px;
+    background-image: url('Lipstick.png');
+    background-size: 70px 70px;
+  }
+  .img15{
+    width: 70px;
+    height: 70px;
+    background-image: url('Bags.png');
+    background-size: 70px 70px;
+  }
+  .img16{
+    float: right;
+    width: 600px;
+    height: 400px;
+    background-image: url('Home.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50px;
+    margin-right: 100px;
+    margin-top: -800px;
+    border: none;
+  }
+  .div1{
+    background-color: rgb(251, 156, 172);
+    height: 70px;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+  }
+  .img2{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: 300px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/61/61972.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .img3{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: -75px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/3502/3502685.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .img4{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: 80px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/3049/3049365.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .img17{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: 70px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/649/649931.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .img18{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: 160px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/60/60484.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .img19{
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin-left: 140px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/456/456212.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+  }
+  .h21{
+    font-size: 30px;
+    text-align: left;
+    margin-left: -500px;
+    padding-left: 200px;
+  }
+  .b2{
+    background-color: rgb(251, 156, 172);
+    height: 70px;
+    width: 1000px;
+    font-size: 40px;
+    text-align: left;
+    border: none;
+  }
+  .h13{
+    text-align: left;
+    margin-left: 295px;
+  }
+  .h30{
+    text-align: left;
+    font-size: 26px;
+    padding-left: 260px;
+  }
+  .h31{
+    text-align: left;
+    font-size: 26px;
+    padding-left: 270px;
+  }
+  .h32{
+    font-size: 50px;
+  }
+  .h33{
+    font-size: 35px;
+    margin-top: -30px;
+  }

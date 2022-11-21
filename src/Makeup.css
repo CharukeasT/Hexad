@@ -2,7 +2,7 @@
     height: 100vh;
     background-image: url('Background.jpg');
 }
-.div7{
+.div35{
     background-color: rgba(251, 156, 172, 0);
     height: 220px;
     font-size: 40px;
@@ -11,7 +11,7 @@
     padding-top: 10px;
     margin-top: 20px;
 }
-.div9{
+.div36{
     height: 230px;
     width: 195px;
     border: none;
@@ -21,7 +21,7 @@
     margin-left: 70px;
     margin-top: -10px;
 }
-.div10{
+.div37{
     height: 230px;
     width: 195px;
     background-image: url('Makeup2.jpg');
@@ -30,7 +30,7 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.div11{
+.div38{
     height: 230px;
     width: 195px;
     background-image: url('Makeup3.jpg');
@@ -39,7 +39,7 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.div12{
+.div39{
     height: 230px;
     width: 195px;
     background-image: url('Makeup4.jpg');
@@ -48,7 +48,7 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.div13{
+.div40{
     height: 230px;
     width: 195px;
     border: none;
@@ -58,7 +58,7 @@
     margin-left: 70px;
     margin-top: -10px;
 }
-.div14{
+.div41{
     height: 230px;
     width: 195px;
     background-image: url('Makeup6.jpg');
@@ -67,7 +67,7 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.div15{
+.div42{
     height: 230px;
     width: 195px;
     background-image: url('Makeup7.jpg');
@@ -76,7 +76,7 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.div16{
+.div43{
     height: 230px;
     width: 195px;
     background-image: url('Makeup8.jpg');
@@ -85,15 +85,15 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.h22{
+.h28{
     text-align: left;
     margin-top: 10px;
-    padding-left: 170px;
+    padding-left: 210px;
     font-size: 26px;
 }
-.h23{
+.h29{
     text-align: left;
-    margin-top: -20px;
-    padding-left: 170px;
-    font-size: 22px;
+    margin-top: 10px;
+    padding-left: 165px;
+    font-size: 26px;
 }

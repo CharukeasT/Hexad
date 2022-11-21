@@ -85,10 +85,16 @@
     margin-left: 230px;
     margin-top: -10px;
 }
-.h22{
+.h24{
     text-align: left;
     margin-top: 10px;
-    padding-left: 170px;
+    padding-left: 150px;
+    font-size: 26px;
+}
+.h25{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 215px;
     font-size: 26px;
 }
 .h23{

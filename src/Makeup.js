@@ -13,20 +13,20 @@ function Makeup() {
         </a>
         <h1 className="h11">Makeup</h1>
         <br></br>
-        <div className="div7">
-          <a><Link to=""><button className='div9'></button></Link></a>
-          <img className='div10'></img>
-          <img className='div11'></img>
-          <img className='div12'></img>
+        <div className="div35">
+          <a><Link to=""><button className='div36'></button></Link></a>
+          <img className='div37'></img>
+          <img className='div38'></img>
+          <img className='div39'></img>
         </div>
-        <h2 className='h22'>
-        High Waist Skirt 
-        &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-        Pleated Skirt
-        &ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-        High Waist Skirt
-        &ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-        Red Tennis Skirt
+        <h2 className='h28'>
+        Lip Colour
+        &nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+        Lip And Cheek Tint
+        &nbsp;&ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+        Concealer
+        &nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+        Eye Glitter
         </h2>
         <h2 className='h23'>
           Rs.1500 &ensp;&ensp;&ensp;20%off
@@ -39,20 +39,20 @@ function Makeup() {
 
         </h2>
         <br></br><br></br>
-        <div className="div7">
-          <img className='div13'></img>
-          <img className='div14'></img>
-          <img className='div15'></img>
-          <img className='div16'></img>
+        <div className="div35">
+          <img className='div40'></img>
+          <img className='div41'></img>
+          <img className='div42'></img>
+          <img className='div43'></img>
         </div>
-        <h2 className='h22'>
-          Pink Floral Skirt 
-          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-          Green Skirt
-          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-          Long Skirt
-          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
-          Pink Ruffled Skirt
+        <h2 className='h29'>
+          Compact Powder 
+          &nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+          Lip Sticks
+          &ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+          Mascara
+          &ensp;&ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+          Lipsticks Set
         </h2>
         <h2 className='h23'>
           Rs.1600 &ensp;&ensp;&ensp;30%off
