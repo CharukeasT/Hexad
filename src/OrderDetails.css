@@ -1,0 +1,104 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .img61{
+    background-image: url('Skirt1.jpg');
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 200px;
+  }
+  .h47{
+    font-size: 60px;
+    float: left;
+    margin-left: 220px;
+    margin-top: 0px;
+  }
+  .h48{
+    float: left;
+    font-size: 45px;    
+    margin-left: 220px;
+    margin-top: -30px;
+  }
+  .h49{
+    font-size:35px;
+    float: left;
+    margin-top: 70px;
+    margin-left: -470px;
+  }
+  .div62{
+    height: 70px;
+    width: 70px;
+    float: left;
+    background-color: pink;
+    border-radius: 15px;
+    margin-top: 3px;
+    margin-left: 220px;
+    border: none;
+  }
+  .div63{
+    height: 70px;
+    width: 70px;
+    float: right;
+    background-color: pink;
+    border-radius: 15px;
+    margin-top: -70px;
+    margin-right: 440px;
+    border: none;
+  }
+  .div64{
+    height: 70px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 15px;
+    margin-top: -70px;
+    float: right;
+    margin-right: 1280px;
+  }
+  .div65{
+    height: 70px;
+    width: 70px;
+    background-color: pink;
+    border-radius: 15px;
+    margin-top: -70px;
+    margin-right: 1240px;
+    float: right;
+  }
+  .div66{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+  }
+  .h50{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 15px;
+  }
+  .h51{
+    color: blueviolet;
+    font-size: 30px;
+    margin-top: 0px;
+  }
+  /* .h52{
+    font-size: 30px;
+    padding-top: 15px;
+  }
+  .h53{
+    font-size: 30px;
+    padding-top: 15px;
+  } */

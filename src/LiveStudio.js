@@ -13,9 +13,7 @@ function LiveStudio() {
         </a>
         <h1 className="h11">Studio</h1>
         <br></br><br></br>
-        <video className='vid1' width="320" height="240" autoplay loop muted>
-          <source src="LiveVideo.mp4" type="video/mp4"></source>
-        </video>
+        {/* <video src={LiveVideo.mp4} autoplay="true" loop="true"> </video> */}
         <br></br><br></br><br></br>
         <div> 
             <a><Link to="/Home"><button className='img2'></button></Link></a>
@@ -30,7 +28,10 @@ function LiveStudio() {
             &ensp;Cart&ensp;&nbsp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;Wallet&ensp;&ensp;
             &ensp;&ensp;&nbsp;&ensp;&ensp;&ensp;Profile</h1>
         </div>
-      </div>       
+      </div>      
+      <video width="320" height="240" autoplay loop muted>
+          <source src="LiveVideo.mp4" type="video/mp4"></source>
+        </video> 
     </>    
   )
 }

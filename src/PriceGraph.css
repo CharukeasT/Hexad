@@ -1,0 +1,30 @@
+.form1{
+    height: 100vh;
+    background-image: url('PriceGraph.jpeg');
+    background-repeat: no-repeat;
+    background-size: 1830px 995px;
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .b3{
+    background-color: rgb(252, 98, 22);
+    width: 230px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    margin-top: 735px;
+    margin-left:630px;
+  }
+  

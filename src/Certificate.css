@@ -1,0 +1,40 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .div60{
+    background-image: url('Certificate.png');
+    width: 1000px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: 1000px 700px;
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .h45{
+    color: white;
+    font-size: 60px;
+    margin-right: 750px;
+  }
+  .div61{
+    float: right;
+    width: 600px;
+    text-align: left;
+    margin-right: 50px;
+    margin-top: -800px;
+  }
+  .h46{
+    font-size: 30px;
+  }
