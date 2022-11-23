@@ -1,0 +1,68 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .h65{
+    font-size: 80px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  .h66{
+    font-size: 40px;
+  }
+  .h67{
+    font-size: 30px;
+    margin-top: 10px;
+  }
+  .h68{
+    font-size: 35px;
+  }
+  .h69{
+    font-size: 40px;
+    margin-top: 10px;
+  }
+  .div79{
+    height: 450px;
+    width: 600px;
+    float: right;
+    background-image: url('HexadPremium.jpg');
+    background-repeat: no-repeat;
+    background-size: 600px 450px;
+    margin-top: 20px;
+    margin-right: 200px;
+    border-radius: 50%;
+  }
+  .div80{
+    width: 400px;
+    text-align: left;
+    margin-left: 250px;
+    margin-top: 50px;
+  }
+  .b9{
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 50px;
+  }
+  .b10{
+    width: 400px;
+    height: 70px;
+    border: none;
+    border-radius: 25px;
+    margin-top: 50px;
+    background-color: rgb(250, 169, 183);
+  }

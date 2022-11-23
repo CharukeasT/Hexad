@@ -6,7 +6,7 @@ function Categories() {
     <>
     <div className='form'>
         <br></br>
-        <a><Link to="/Logo">
+        <a><Link to="/Home">
         <button className="img1">
         </button>
         </Link>

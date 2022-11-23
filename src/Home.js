@@ -44,7 +44,7 @@ function Home() {
         <div> 
             <a><Link to="/Home"><button className='img2'></button></Link></a>
             <a><Link to="/Categories"><button className='img3'></button></Link></a>
-            <a><Link to="/LiveStudio"><button className='img4'></button></Link></a>
+            <a><Link to="/LiveStreaming"><button className='img4'></button></Link></a>
             <a><Link to="/Cart"><button className='img17'></button></Link></a>
             <a><Link to="/Wallet"><button className='img18'></button></Link></a>
             <a><Link to="/Profile"><button className='img19'></button></Link></a>

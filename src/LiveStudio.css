@@ -71,3 +71,34 @@
     height: 100px;
     width: 200px;
   }
+  .div70{
+    height: 120px;
+    width: 120px;
+    background-image: url('Model.jpg');
+    background-size: 120px 120px;
+    border-radius: 60px;
+    margin-left: 600px;
+    margin-top: -30px;
+  }
+  .h55{
+    margin-left: -100px;
+    margin-top: -110px;
+  }
+  .h56{
+    margin-left: -180px;
+    margin-top: -18px;
+    color: grey;
+  } 
+  .h57{
+    margin-left: 450px;
+    margin-top: -60px;
+    color: rgb(255, 0, 0);
+  }
+  .div71{
+    height: 190px;
+    width: 890px;
+    background-image: url('Offer.jpg');
+    background-repeat: no-repeat;
+    background-size: 890px 190px;
+    margin-left: 470px;
+  }

@@ -17,6 +17,9 @@ import PriceWatch from './PriceWatch';
 import Certificate from './Certificate';
 import OrderDetails from './OrderDetails';
 import Profile from './Profile'
+import LiveStreaming from './LiveStreaming';
+import HexadPremium from './HexadPremium';
+import CreateAccount from './CreateAccount';
 import { BrowserRouter as Router,Route, Link , Routes } from 'react-router-dom';
 
 function App() {
@@ -24,7 +27,8 @@ function App() {
     <Router>
         <div className='App'>
           <Routes>
-            <Route exact path="/" element={<OrderDetails/>}></Route>
+            <Route exact path="/" element={<Logo/>}></Route>
+            <Route exact path="/CreateAccount" element={<CreateAccount/>}></Route>
             <Route exact path="/Home" element={<Home/>}></Route>
             <Route exact path="/Logo" element={<Logo/>}></Route>
             <Route exact path="/Men" element={<Men/>}></Route>
@@ -41,7 +45,10 @@ function App() {
             <Route exact path="/PriceWatch" element={<PriceWatch/>}></Route>
             <Route exact path="/Certificate" element={<Certificate/>}></Route>
             <Route exact path="/OrderDetails" element={<OrderDetails/>}></Route>
-            {/* <Route exact path="/Profile" element={<Profile/>}></Route> */}
+            <Route exact path="/LiveStreaming" element={<LiveStreaming/>}></Route>
+            <Route exact path="/Profile" element={<Profile/>}></Route>
+            <Route exact path="/HexadPremium" element={<HexadPremium/>}></Route>
+
           </Routes>
         </div>
       </Router>

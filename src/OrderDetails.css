@@ -53,30 +53,27 @@
   .div63{
     height: 70px;
     width: 70px;
-    float: right;
     background-color: pink;
     border-radius: 15px;
-    margin-top: -70px;
-    margin-right: 440px;
+    margin-top: 3px;
+    margin-left: 220px;
     border: none;
+    margin-left: 60px;
   }
   .div64{
-    height: 70px;
-    width: 70px;
-    background-color: pink;
-    border-radius: 15px;
-    margin-top: -70px;
+    width: 700px;  
     float: right;
-    margin-right: 1280px;
+    margin-right: 300px;
+    text-align: left;  
   }
   .div65{
     height: 70px;
-    width: 70px;
+    width: 500px;
     background-color: pink;
-    border-radius: 15px;
-    margin-top: -70px;
-    margin-right: 1240px;
-    float: right;
+    border-radius: 50px;
+    margin-top: -230px;
+    margin-left: -200px;
+    border: none;
   }
   .div66{
     width: 70px;
@@ -94,11 +91,120 @@
     font-size: 30px;
     margin-top: 0px;
   }
-  /* .h52{
-    font-size: 30px;
+  .h52{
+    font-size: 40px;
     padding-top: 15px;
   }
   .h53{
-    font-size: 30px;
-    padding-top: 15px;
-  } */
+    width: 500px;
+    font-size: 28px;
+    color: white;
+    margin-top: 15px;
+    /* margin-right: -120px; */
+    float: right;
+  }
+  .div67{
+    margin-top: -100px;
+    margin-left: 475px;
+}
+.div68{
+  width: 170px;
+  height: 60px;
+  border: none;
+  background-color: #fff;
+  border-radius: 50px;
+
+}
+.div69{
+  height: 100px;
+  width: 100px;
+  background-image: url('Live.png');
+  background-repeat: no-repeat;
+  background-size: 100px 100px;
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  margin-left: 50px;
+}
+.div74{
+  width: 170px;
+  height: 60px;  
+  border: none;
+  background-color: rgb(255, 0, 0);
+  border-radius: 50px;
+  margin-left: 50px;
+}
+.h59{
+  color: rgb(0, 0, 0);
+  margin-top: -0px;
+}
+.h60{
+  color: white;
+  margin-top: -0px;
+}
+.b7{
+  width: 150px;
+  height: 150px;
+  float: right;
+  border: none;
+  margin-top: -700px;
+  background-color: rgb(234, 184, 192);
+}
+.b8{
+  width: 150px;
+  height: 150px;
+  float: right;
+  border: none;
+  margin-top: -550px;
+  background-color: rgba(128, 128, 128, 0.64);
+}
+.img50{
+  width: 80px;
+  height: 80px;
+  background-image: url('PriceBar.png');
+  background-size: 80px 80px;
+  float: right;
+  margin-top: -690px;
+  margin-right: 35px;
+}
+.img51{
+  width: 80px;
+  height: 80px;
+  background-image: url('WatchPrice.png');
+  background-size: 80px 80px;
+  float: right;
+  margin-top: -540px;
+  margin-right: 35px;
+}
+.div75{
+  width: 30px;
+  float: right;
+  margin-top: -635px;
+  margin-right: 80px;
+}
+.div76{
+  width: 30px;
+  float: right;
+  margin-top: -485px;
+  margin-right: 80px;
+}
+.h62{
+  font-size: 22px;
+  font-weight: bold;
+  text-align:center;
+}
+.div77{
+  width: 150px;
+  height: 150px;
+  float: right;
+  border: none;
+  margin-top: -700px;
+  background-color: rgba(234, 184, 192, 0);
+}
+.div78{
+  width: 150px;
+  height: 150px;
+  float: right;
+  border: none;
+  margin-top: -550px;
+  background-color: rgba(128, 128, 128, 0);
+}

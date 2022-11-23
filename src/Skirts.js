@@ -14,7 +14,7 @@ function Skirts() {
         <h1 className="h11">Skirts</h1>
         <br></br>
         <div className="div7">
-          <a><Link to="OrderDetails"><button className='div9'></button></Link></a>
+          <a><Link to="/OrderDetails"><button className='div9'></button></Link></a>
           <img className='div10'></img>
           <img className='div11'></img>
           <img className='div12'></img>

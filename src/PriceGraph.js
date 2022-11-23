@@ -6,7 +6,7 @@ function PriceGraph() {
     <>
     <div className='form1'>
         <br></br>
-        <a><Link to="/Categories">
+        <a><Link to="/OrderDetails">
         <button className="img1">
         </button>
         </Link>

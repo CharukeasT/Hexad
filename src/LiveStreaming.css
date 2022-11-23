@@ -1,0 +1,145 @@
+.form{
+    height: 100vh;
+    background-image: url('Background.jpg');
+  }
+  .img1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 45px;
+    padding-left: 25px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/54/54476.png');
+    background-size: cover;
+    border: 0px;
+    border-radius: 50px;
+  }
+  .h11{
+    font-size: 50px;
+    padding-left: 200px;
+    text-align: left;
+  }
+  .h12{
+    font-size: 25px;
+    padding-left: 120px;
+    text-align: left;
+  }
+  .div1{
+    background-color: rgb(251, 156, 172);
+    height: 70px;
+    font-size: 40px;
+    text-align: left;
+    padding-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+  }
+  .img2{
+    width: 80px;
+    float: left;
+    padding-left: 300px;
+  }
+  .img3{
+    width: 80px;
+    float: left;
+    padding-left:150px;
+  }
+  .img4{
+    width: 80px;
+    float: left;
+    padding-left: 150px;
+  }
+  .h21{
+    font-size: 30px;
+    text-align: left;
+    margin-left: -500px;
+    padding-left: 200px;
+  }
+  .b2{
+    background-color: rgb(251, 156, 172);
+    height: 70px;
+    width: 1000px;
+    font-size: 40px;
+    text-align: left;
+    border: none;
+  }
+  .h13{
+    text-align: left;
+    margin-left: 295px;
+  }
+  .vid1{
+    background-image: url('LiveVideo.mp4');
+    height: 100px;
+    width: 200px;
+  }
+  .div70{
+    height: 120px;
+    width: 120px;
+    background-image: url('Model.jpg');
+    background-size: 120px 120px;
+    border-radius: 60px;
+    margin-left: 600px;
+    margin-top: -30px;
+  }
+  .h55{
+    margin-left: -100px;
+    margin-top: -110px;
+  }
+  .h56{
+    margin-left: -180px;
+    margin-top: -18px;
+    color: grey;
+  } 
+  .h57{
+    margin-left: 450px;
+    margin-top: -60px;
+    color: rgb(255, 0, 0);
+  }
+  .div72{
+    height: 150px;
+    width: 800px;
+    background-image: url('Offer.jpg');
+    background-repeat: no-repeat;
+    background-size: 800px 150px;
+    margin-left: 515px;
+  }
+  .h61{
+    text-align: left;
+    margin-top: 10px;
+    padding-left: 400px;
+    font-size: 26px;
+}
+.h54{
+    text-align: left;
+    margin-top: -20px;
+    padding-left: 400px;
+    font-size: 22px;
+}
+.h58{
+    font-size: 30px;
+    margin-top: 5px;
+}
+.vid1{
+    margin-top: -20px;
+    width: 1200px;
+    height: 600px;
+}
+.b6{
+    width: 300px;
+    height: 50px;
+    float: right;
+    background-color: rgb(246, 168, 65);
+    border-radius: 25px;
+    margin-top: -75px;
+    margin-right: 760px;
+}
+.div73{
+    height: 80px;
+    width: 80px;
+    float: right;
+    background-image: url('Like.png');
+    background-repeat: no-repeat;
+    background-size: 80px 80px;
+    margin-top: -90px;
+    margin-right: 400px;
+}
+ 
